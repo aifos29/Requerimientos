@@ -1,0 +1,11 @@
+c:\users\sofia\documents\visual studio 2015\Projects\Requerimientos\Requerimientos\bin\Debug\Requerimientos.exe.config
+c:\users\sofia\documents\visual studio 2015\Projects\Requerimientos\Requerimientos\bin\Debug\Requerimientos.exe
+c:\users\sofia\documents\visual studio 2015\Projects\Requerimientos\Requerimientos\bin\Debug\Requerimientos.pdb
+c:\users\sofia\documents\visual studio 2015\Projects\Requerimientos\Requerimientos\obj\Debug\Requerimientos.csprojResolveAssemblyReference.cache
+c:\users\sofia\documents\visual studio 2015\Projects\Requerimientos\Requerimientos\obj\Debug\Requerimientos.Login.resources
+c:\users\sofia\documents\visual studio 2015\Projects\Requerimientos\Requerimientos\obj\Debug\Requerimientos.Properties.Resources.resources
+c:\users\sofia\documents\visual studio 2015\Projects\Requerimientos\Requerimientos\obj\Debug\Requerimientos.csproj.GenerateResource.Cache
+c:\users\sofia\documents\visual studio 2015\Projects\Requerimientos\Requerimientos\obj\Debug\Requerimientos.exe
+c:\users\sofia\documents\visual studio 2015\Projects\Requerimientos\Requerimientos\obj\Debug\Requerimientos.pdb
+c:\users\sofia\documents\visual studio 2015\Projects\Requerimientos\Requerimientos\obj\Debug\Requerimientos.Principal.resources
+C:\Users\Sofia\Documents\Visual Studio 2015\Projects\Requerimientos\Requerimientos\obj\Debug\Requerimientos.Cuentas.resources
